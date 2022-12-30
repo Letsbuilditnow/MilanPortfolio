@@ -3546,6 +3546,9 @@ input, select, textarea {
 	width:100%;
 	height: 40%;
 }
+.features p{
+	text-align: left;
+}
 		#main dl dt {
 			color: #636363;
 		}
